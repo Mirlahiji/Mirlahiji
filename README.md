@@ -2,9 +2,9 @@
 
 <h3 align="center">🔰 A passionate C/C++ developer 🔰</h3>
 
-- 🛠️ I’m currently working on [-](https://github.com/Mirlahiji/)
+- 🛠️ I’m currently working on [Bug-Tracker](https://github.com/Mirlahiji/Bug-Tracker)
 
-- 🌱 I’m currently learning **Dear Imgui**
+- 🌱 I’m currently learning **Dear Imgui** and **Data Structures and Algorithms**
 
 - 💌 How to reach me **Delaram_Mirlahiji@protron.me**
 

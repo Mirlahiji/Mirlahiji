@@ -9,7 +9,7 @@
 - 💌 How to reach me **Delaram_Mirlahiji@protron.me**
 
 ## 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Mirlahiji&theme=midnight-purple&hide_border=true)<br/>
+![](https://camo.githubusercontent.com/9c441fead8901d42814c0baf3603b0338bc6c7712a6c14af3469bf1cd32266e0/68747470733a2f2f6769746875622d726561646d652d73747265616b2d73746174732e6865726f6b756170702e636f6d2f3f757365723d4d69726c6168696a69267468656d653d6d69646e696768742d707572706c6526686964655f626f726465723d74727565)<br/>
 
 <p align="left">
 </p>

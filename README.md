@@ -1,8 +1,10 @@
-<h1 align="center">Hi 👋, I'm Delaram 👩‍💻</h1>
+<h1 align="center">Hi 👋, I'm Del 👩‍💻</h1>
 
 <h3 align="center">🔰 A passionate C/C++ developer 🔰</h3>
 
 - 🛠️ I’m currently working on [Bug-Tracker](https://github.com/Mirlahiji/Bug-Tracker)
+
+- 💻 Checkout too [Gameing Shop](https://github.com/Mirlahiji/Gameing-shop), [Calculator](https://github.com/Mirlahiji/windows-form-calculator)
 
 - ⚡ Fun fact: I just started, but not everything should be perfect from the beginning
 

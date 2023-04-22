@@ -4,6 +4,8 @@
 
 - 🛠️ I’m currently working on [Bug-Tracker](https://github.com/Mirlahiji/Bug-Tracker)
 
+- ⚡ Fun fact: I just started, but not everything should be perfect from the beginning
+
 - 🌱 I’m currently learning **Dear Imgui** and **Data Structures and Algorithms**
 
 - 💌 How to reach me **Delaram_Mirlahiji@protron.me**

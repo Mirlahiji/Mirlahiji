@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Del 👩‍💻</h1>
+<h1 align="center">Hi 👋, I'm Mirlahiji 👩‍💻</h1>
 
 <h3 align="center">🔰 A passionate C/C++ developer 🔰</h3>
 

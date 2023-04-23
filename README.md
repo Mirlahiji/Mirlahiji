@@ -12,7 +12,7 @@
 
 - 💌 How to reach me **Delaram_Mirlahiji@protron.me**
 
-![snake animation](https://github.com/Mirlahiji/Mirlahiji/output/github-contribution-grid-snake2.svg)
+![github contribution grid snake animation](https://raw.githubusercontent.com/Mirlahiji/Mirlahiji/output/github-contribution-grid-snake.svg)
 
 <p align="left">
 </p>
